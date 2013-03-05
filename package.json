@@ -1,0 +1,18 @@
+{
+  "name": "crypto-reader",
+  "version": "0.0.1",
+  "description": "helper for creating crypto credentials based on cert files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "https://github.com/machadogj/node-crypto-reader.git",
+  "author": "Gustavo Machado",
+  "license": "BSD",
+  "dependencies": {
+    "async": "0.2.6"
+  },
+  "devDependencies": {
+    "mocha":"*"
+  }
+}
